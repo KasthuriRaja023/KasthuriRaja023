@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kasthuri Raja.M</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A Passionate Developer From India</h3>
 
 <img src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966" alt="CoderGif" />
 
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://codepen.io/kasthuriraja023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@kasthuriraja023" height="30" width="40" /></a>
 <a href="https://twitter.com/kasthuriraja023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kasthuriraja023" height="30" width="40" /></a>
-<a href="linkedin.com/in/kasthuri-raja-m-327165221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kasthuri-raja-m-327165221" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kasthuri-raja-m-327165221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kasthuri-raja-m-327165221" height="30" width="40" /></a>
 <a href="https://codesandbox.io/dashboard/home?workspace=72a3c841-0aac-4916-8a1c-3bf2ea64386d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="@kasthuriraja023" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/mkrkasthuriraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mkr kasthuri raja" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/ucfn1qhy5awiuibbozqb0lmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kasthuri raja m" height="30" width="40" /></a>

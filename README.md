@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasthuriraja023" alt="kasthuriraja023" /></a> </p>
 
-
+<img src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966" alt="CoderGif" />
 
 - 👨‍💻 All of my projects are available at [https://github.com/KasthuriRaja023](https://github.com/KasthuriRaja023)
 
 - 📝 I regularly write articles on [https://kasthuriraja023.github.io/my-portfolio/](https://kasthuriraja023.github.io/my-portfolio/)
+
+- 📫 How to reach me **+91-96553-44888**
 
 - 📫 How to reach me **kasthuriraja023@gmail.com**
 
@@ -17,12 +19,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@kasthuriraja023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@kasthuriraja023" height="30" width="40" /></a>
-<a href="https://twitter.com/@kasthuriraja023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kasthuriraja023" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/kasthuri-raja-m-327165221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kasthuri-raja-m-327165221" height="30" width="40" /></a>
-<a href="https://codesandbox.com/@kasthuriraja023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="@kasthuriraja023" height="30" width="40" /></a>
-<a href="https://kaggle.com/mkr kasthuri raja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mkr kasthuri raja" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kasthuri raja m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kasthuri raja m" height="30" width="40" /></a>
+<a href="https://codepen.io/kasthuriraja023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@kasthuriraja023" height="30" width="40" /></a>
+<a href="https://twitter.com/kasthuriraja023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kasthuriraja023" height="30" width="40" /></a>
+<a href="linkedin.com/in/kasthuri-raja-m-327165221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kasthuri-raja-m-327165221" height="30" width="40" /></a>
+<a href="https://codesandbox.io/dashboard/home?workspace=72a3c841-0aac-4916-8a1c-3bf2ea64386d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="@kasthuriraja023" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mkrkasthuriraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mkr kasthuri raja" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucfn1qhy5awiuibbozqb0lmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kasthuri raja m" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

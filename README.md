@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kasthuriraja023@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RxtNRUPh2VU-pJIvpXDC0RATQ6qLyw4w/view](https://drive.google.com/file/d/1RxtNRUPh2VU-pJIvpXDC0RATQ6qLyw4w/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gYR7G21mbAM32bRzmQ-dqzwXqpBURu1D/view?usp=sharing](https://drive.google.com/file/d/1gYR7G21mbAM32bRzmQ-dqzwXqpBURu1D/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

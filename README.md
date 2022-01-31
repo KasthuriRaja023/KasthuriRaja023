@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kasthuriraja023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@kasthuriraja023" height="30" width="40" /></a>
-<a href="https://twitter.com/kasthuriraja023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kasthuriraja023" height="30" width="40" /></a>
+<a href="https://twitter.com/KasthuriRaja_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kasthuriraja023" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kasthuri-raja-m-327165221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kasthuri-raja-m-327165221" height="30" width="40" /></a>
 <a href="https://codesandbox.io/dashboard/home?workspace=72a3c841-0aac-4916-8a1c-3bf2ea64386d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="@kasthuriraja023" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/mkrkasthuriraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mkr kasthuri raja" height="30" width="40" /></a>

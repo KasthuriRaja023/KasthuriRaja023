@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KasthuriRaja023](https://github.com/KasthuriRaja023)
 
-- 📝 I regularly write articles on [https://kasthuriraja023.github.io/my-portfolio/](https://kasthuriraja023.github.io/my-portfolio/)
+- 📝 I regularly write articles on [https://kasthuriraja-portfolio.netlify.app/](https://kasthuriraja-portfolio.netlify.app/)
 
 - 📫 How to reach me **+91-96553-44888**
 
-- 📫 How to reach me **kasthuriraja023@gmail.com**
+- 📫 How to reach me **kasthurirajaofficial@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gYR7G21mbAM32bRzmQ-dqzwXqpBURu1D/view?usp=sharing](https://drive.google.com/file/d/1gYR7G21mbAM32bRzmQ-dqzwXqpBURu1D/view?usp=sharing)
 
